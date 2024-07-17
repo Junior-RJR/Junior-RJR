@@ -1,16 +1,12 @@
-## Estudante de Desenvolvimento Front-End (HTML5, CSS3, JavaScript, TypeScript, React, NodeJs), Utilizando Metodologia Ágil Scrum em Projetos atuando como Desenvol
+Sobre Mim
+Sou um desenvolvedor web com experiência em diversas tecnologias modernas. Tenho conhecimento em HTML5, CSS3, JavaScript, TypeScript, React, Node.js, Python e PHP. Além disso, sou adepto da Metodologia Ágil Scrum, o que me permite trabalhar de forma eficiente em equipes, entregando projetos de alta qualidade dentro dos prazos estabelecidos.
 
-<!--
-**Junior-RJR/Junior-RJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Minhas principais competências incluem:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML5 & CSS3: Criação de layouts responsivos e acessíveis.
+JavaScript & TypeScript: Desenvolvimento de aplicações web dinâmicas e escaláveis.
+React: Construção de interfaces de usuário interativas.
+Node.js: Desenvolvimento de backend robusto e eficiente.
+Python: Automatização de tarefas e desenvolvimento de scripts.
+PHP: Criação de websites dinâmicos e sistemas de gerenciamento de conteúdo.
+Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades e aprender novas tecnologias.

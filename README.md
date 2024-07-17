@@ -1,4 +1,4 @@
-## Hi there 👋
+## Estudante de Desenvolvimento Front-End (HTML5, CSS3, JavaScript, TypeScript, React, NodeJs), Utilizando Metodologia Ágil Scrum em Projetos atuando como Desenvol
 
 <!--
 **Junior-RJR/Junior-RJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,54 +1,81 @@
 # 👋 Olá, eu sou o Rogério Junior
 
-💻 Desenvolvedor apaixonado por tecnologia e aprendizado contínuo.  
-🚀 Buscando sempre evoluir e criar soluções que fazem a diferença.
+### "Transformando ideias em soluções através da tecnologia."
+
+Sou desenvolvedor **Full-Stack**, apaixonado por **React, Python, Java (Spring Boot), SQL e AWS**.  
+Minha missão é criar soluções que conectem pessoas e facilitem o dia a dia, sempre buscando aprendizado contínuo e desafios que me façam crescer como profissional.
+
+---
+
+## 🌐 Meu Site Pessoal
+[💻 devrogeriojunior.com.br](https://devrogeriojunior.com.br) – Portfólio e blog técnico
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriojunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriojunior&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=radical" alt="Top Langs"/>
 </div>
 
 ---
 
-## 🚀 Tecnologias que uso
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+## 🛠️ Tecnologias & Ferramentas
+<div align="center">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/> 
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
+
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/> 
+
+  <!-- DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
 </div>
 
 ---
 
 ## 🎓 Formação
-- **Engenharia de Software** – Unicesumar  
+- **Graduação em Gestão de Tecnologia da Informação** – Universidade Municipal São Caetano do Sul (Jan/2017 – Jun/2019)
 
 ---
 
-## 📚 Certificações & Cursos
-- Scrum Foundation  
-- Lógica de Programação  
-- JavaScript  
-- TypeScript  
-- React  
-- Python  
-- PHP  
+## 📚 Cursos & Certificações
+- AWS Certified Solutions Architect – Professional (Udemy)
+- Desenvolvimento Python (Rocketseat)
+- Desenvolvimento React (Rocketseat)
+- Formação em Acessibilidade Web (Alura)  
+- Scrum Foundation Professional Certificate (CertiProf)
+- Formação Front-End (Alura)
+- Linux Fundamentos (FIAP)  
+- …e outros (COBIT 5, Redes TCP/IP, Lógica de Programação, etc.)
 
 ---
 
-## 📫 Contato
-📧 **E-mail:** rogeriojunior@outlook.com  
-🔗 [LinkedIn](https://linkedin.com/in/rogeriojunior)  
+## 🔗 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEULINKEDIN)  
+[![Email](https://img.shields.io/badge/Email-rog.junior@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rog.junior@example.com)
 
 ---
 
-✨ *"Nunca pare de aprender 🚀"*
+## 🚀 Projetos em destaque
+- **[RJR-Docs](https://github.com/SEUPROJETO)** – Aplicação para armazenar documentos  
+- **[Pastelaria Maza](https://github.com/SEUPROJETO)** – Sistema de gestão de pedidos  
+- **[JrKeeper](https://github.com/SEUPROJETO)** – Gerenciador de senhas
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="coding gif"/>
+</div>

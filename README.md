@@ -21,7 +21,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 <div align="center">
   <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
@@ -31,17 +31,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/>
 
   <!-- Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/sql-original.svg" width="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/> 
 
   <!-- DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+
+  <!-- Metodologias -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scrumalliance.svg" width="50" title="Scrum"/>
 </div>
+
+
 
 ---
 
@@ -60,11 +66,12 @@
 - Linux Fundamentos (FIAP)  
 - …e outros (COBIT 5, Redes TCP/IP, Lógica de Programação, etc.) 
 
----
+<!-----
 
 ## 🔗 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEULINKEDIN)  
-[![Email](https://img.shields.io/badge/Email-rog.junior@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rog.junior@example.com)
+[![Email](https://img.shields.io/badge/Email-rog.junior@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devrogeriojunior@gmail.com)
+-->
 
 ---
 

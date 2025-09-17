@@ -1,33 +1,53 @@
-# 👋 Olá, eu sou Rogério Junior
+# Rogério Junior • Full-Stack Developer 🚀
 
-- **[Meu Site Pessoal](https://devrogeriojunior.com.br)**: Portfólio e blog técnico.
-  
-🎓 **Formação**  
-- Graduação em **Gestão de Tecnologia da Informação**  
- - Universidade Municipal São Caetano do Sul (Jan/2017 – Jun/2019)
+### "Transformando ideias em soluções através da tecnologia."
 
-🔧 **Tecnologias & Ferramentas**  
-- **Front-end:** HTML5, CSS3, JavaScript, TypeScript, ReactJS, Redux, Ant-D, Axios, React Router  
-- **Back-end:** Node.js, Python (Django), PHP, .NET, Java (Spring Boot)  
-- **Banco de Dados:** SQL (MySQL, PostgreSQL), H2  
-- **Infra & DevOps:** AWS, Docker, CI/CD, Git, Jira, ITIL, Scrum  
-- **Outros:** Jest, Cypress, Swagger / OpenAPI, COBIT 5
-
-📚 **Cursos & Certificações**  
-- AWS Certified Solutions Architect – Professional (Udemy)
--  Desenvolvimento Python (Rocketseat)
--  Desenvolvimento React (Rocketseat)
-- Formação em Acessibilidade Web (Alura)  
-- Scrum Foundation Professional Certificate (CertiProf)  
-- Formação Front-End (Alura)  
-- Linux Fundamentos (FIAP)  
-- …e outros (COBIT 5, Redes TCP/IP, Lógica de Programação, etc.)
-
-✉️ **Contato**  
-- 📧 rogeriojunior1410@outlook.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rogério-junior/)  
-- 🌍 devrogeriojunior.com.br  
+Sou desenvolvedor **Full-Stack**, com experiência em **React, Python, Java (Spring Boot), SQL e AWS**.  
+Minha paixão é criar soluções que conectem pessoas e facilitem o dia a dia, sempre buscando aprendizado constante e desafios que me façam crescer como profissional.
 
 ---
 
-> “Nunca pare de aprender.” 🚀  
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=radical" alt="Top Langs"/>
+</div>
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+<div align="center">
+  
+<!-- Frontend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+
+<!-- Backend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> 
+
+<!-- Database -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/> 
+
+<!-- DevOps -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+
+</div>
+
+---
+
+## 🌐 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEULINKEDIN)  
+[![Email](https://img.shields.io/badge/Email-rog.junior@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rog.junior@example.com)
+
+---
+
+## 📌 Projetos em destaque
+- 🚀 **[RJR-Docs](https://github.com/SEUPROJETO)** – Aplicação para armazenar documentos.  
+- 🛒 **[Pastelaria Maza](https://github.com/SEUPROJETO)** – Sistema de gestão de pedidos.  
+- 🔐 **[JrKeeper](https://github.com/SEUPROJETO)** – Gerenciador de senhas.  
+

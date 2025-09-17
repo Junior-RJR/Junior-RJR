@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Rogério Junior
 
-💻 Desenvolvedor **Full-Stack** , apaixonado por **React, Python, Java (Spring Boot), SQL e AWS**.  
+💻 Desenvolvedor **Full-Stack** , apaixonado por transformar ideias em soluções reais. 
 🚀 Minha missão é criar soluções que conectem pessoas e facilitem o dia a dia, sempre buscando aprendizado contínuo e desafios que me façam crescer como profissional.
 
 ---
@@ -58,8 +58,9 @@
 
 ## 📚 Cursos & Certificações
 - AWS Certified Solutions Architect – Professional (Udemy)
-- Desenvolvimento Python (Rocketseat)
+- Desenvolvimento Java (Rocketseat)
 - Desenvolvimento React (Rocketseat)
+- Desenvolvimento Python (Rocketseat)
 - Formação em Acessibilidade Web (Alura)  
 - Scrum Foundation Professional Certificate (CertiProf)
 - Formação Front-End (Alura)
